@@ -51,3 +51,7 @@ Comparative analysis of compression efficiency among different algorithms.
 A deeper understanding of how data compression algorithms work internally.
 
 Well-documented source code with comments and usage instructions.
+
+# Output :
+
+<img width="1728" height="472" alt="Image" src="https://github.com/user-attachments/assets/c1e08e34-60ee-4db9-92c6-8dee72d344a3" />
